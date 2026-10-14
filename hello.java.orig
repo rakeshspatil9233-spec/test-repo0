@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+class hello()  # from dev2
+{
+      public static void main () #from dev2
+=======
+class hello()   #from dev1
+{
+      public static void main ()  #from dev1
+>>>>>>> 04048413b595e40b8874583e492f670d040aade4
+      {
+	 system.out.println("hello modify from dev1");
+      }	 
+}#dev2
